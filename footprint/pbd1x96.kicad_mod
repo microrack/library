@@ -124,7 +124,7 @@
   (pad 94 thru_hole circle (at 0 236.22) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 95 thru_hole circle (at 0 238.76) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
   (pad 96 thru_hole circle (at 0 241.3) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/../Library/footprint/3D/PinSocket_1x96_P2.54mm_Vertical.step
+  (model ${KIPRJMOD}/../library/footprint/3D/PinSocket_1x96_P2.54mm_Vertical.step
     (offset (xyz 0 -142.2 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
