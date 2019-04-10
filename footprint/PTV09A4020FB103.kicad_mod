@@ -1,4 +1,4 @@
-(module PTV09A4020FB103 (layer F.Cu) (tedit 5C796D26)
+(module PTV09A4020FB103 (layer F.Cu) (tedit 5CAC8DC1)
   (descr PTV09A-4)
   (tags Resistor)
   (fp_text reference RV3 (at 0 0) (layer F.SilkS)
@@ -31,9 +31,9 @@
   (pad 3 thru_hole circle (at 2.5 5.6 90) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 0 5.6 90) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
   (pad 1 thru_hole circle (at -2.5 5.6 90) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
-  model ${KIPRJMOD}/../library/footprint/3D/r0904n.step
+  (model ${KIPRJMOD}/../library/footprint/3D/r0904n.step
     (offset (xyz 0 1.5 0))
-    (scale (xyz 0.4 0.4 0.4))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
