@@ -2,6 +2,5 @@ fp-lib-table
 sym-lib-table
 *.bak
 *.kicad_pcb-bak
-*.step
 *.fcstd1
 *.net
