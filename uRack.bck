@@ -48,6 +48,12 @@ K P-Channel MOSFET
 F http://www.onsemi.com/pub/Collateral/NTR2101P-D.PDF
 $ENDCMP
 #
+$CMP PLS2x4
+D Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
 $CMP Si2319CDS
 D -4.4A Id, -40V Vds, P-Channel MOSFET, SOT-23
 K P-Channel MOSFET
